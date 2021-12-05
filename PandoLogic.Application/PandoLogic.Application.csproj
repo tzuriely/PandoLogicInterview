@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PandoLogic.Domain\PandoLogic.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Queries\Responses\" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Queries\Responses\" />
+    </ItemGroup>
+</Project>

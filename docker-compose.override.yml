@@ -1,0 +1,20 @@
+version: '3.4'
+
+services:
+  pandologicapi:
+    container_name: pandologicapi
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "8081:80"
+    depends_on: 
+        - pandologicdb
+
+  pandologicdb:
+    container_name: pandologicdb
+    environment:
+       SA_PASSWORD: "ABC123abc"
+       ACCEPT_EULA: "Y"
+    restart: always
+    ports:
+       - "1433:1433"

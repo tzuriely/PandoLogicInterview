@@ -1,0 +1,12 @@
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/bin/Debug/net5.0/PandoLogic.Domain.deps.json
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/bin/Debug/net5.0/PandoLogic.Domain.dll
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/bin/Debug/net5.0/ref/PandoLogic.Domain.dll
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/bin/Debug/net5.0/PandoLogic.Domain.pdb
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/obj/Debug/net5.0/PandoLogic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/obj/Debug/net5.0/PandoLogic.Domain.AssemblyInfoInputs.cache
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/obj/Debug/net5.0/PandoLogic.Domain.AssemblyInfo.cs
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/obj/Debug/net5.0/PandoLogic.Domain.csproj.CoreCompileInputs.cache
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/obj/Debug/net5.0/PandoLogic.Domain.dll
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/obj/Debug/net5.0/ref/PandoLogic.Domain.dll
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/obj/Debug/net5.0/PandoLogic.Domain.pdb
+/Users/tzurielya/RiderProjects/PandoLogic/PandoLogic.Domain/obj/Debug/net5.0/PandoLogic.Domain.csproj.AssemblyReference.cache

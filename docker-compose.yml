@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  pandologicapi:
+    image: ${DOCKER_REGISTRY-}pandologic
+    build:
+      context: .
+      dockerfile: PandoLogic.API/Dockerfile
+
+  pandologicdb:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+
+  pandologicweb:
+    build:
+        context: ./pandologic-web
+        dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    container_name: pandologicweb
+    volumes:
+        - ./my-app:/usr/src/app/my-app
+        - /usr/src/app/my-app/node_modules
